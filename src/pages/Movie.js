@@ -17,7 +17,7 @@ function Movie() {
         },
         {
           id: "2",
-          title: "Inception",
+          title: "Doctor Strange",
           time: "148 min",
           genres: ["Action", "Sci-Fi", "Thriller"],
         },
